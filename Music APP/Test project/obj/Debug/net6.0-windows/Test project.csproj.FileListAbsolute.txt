@@ -1,0 +1,55 @@
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.csproj.AssemblyReference.cache
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test_project.Form1.resources
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.csproj.GenerateResource.cache
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.AssemblyInfoInputs.cache
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.AssemblyInfo.cs
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.csproj.CoreCompileInputs.cache
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\Test project.exe
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\Test project.dll.config
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\Test project.deps.json
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\Test project.runtimeconfig.json
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\Test project.dll
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\Test project.pdb
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asyou\source\repos\Test project\Test project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.csproj.CopyComplete
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.dll
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\refint\Test project.dll
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.pdb
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\Test project.genruntimeconfig.cache
+C:\Users\asyou\source\repos\Test project\Test project\obj\Debug\net6.0-windows\ref\Test project.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\Test project.exe
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\Test project.dll.config
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\Test project.deps.json
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\Test project.runtimeconfig.json
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\Test project.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\Test project.pdb
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.csproj.AssemblyReference.cache
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.csproj.GenerateResource.cache
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.AssemblyInfoInputs.cache
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.AssemblyInfo.cs
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.csproj.CoreCompileInputs.cache
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.csproj.CopyComplete
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\refint\Test project.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.pdb
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test project.genruntimeconfig.cache
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\ref\Test project.dll
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test_project.loginform.resources
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test_project.Properties.Resources.resources
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test_project.ForgotPass.resources
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test_project.Welcome.resources
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test_project.Createaccnt.resources
+C:\Users\asyou\source\repos\Projet Bilo\Test project\obj\Debug\net6.0-windows\Test_project.Deleteaccnt.resources
